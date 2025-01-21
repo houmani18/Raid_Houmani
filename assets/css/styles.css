@@ -359,6 +359,9 @@ img {
   font-size: 0.9rem;
 }
 
+#message{
+  font-family: var(--body-font);
+}
 
 /* ===== FOOTER =====*/
 .footer {
@@ -618,21 +621,3 @@ img {
     font-size: 13px; 
   }
 }
-
-
-/*-------------------------------------------*/
-
-#contact {
-  padding: 20px;
-  text-align: center;
-}
-
-#contact h2 {
-  margin-bottom: 10px;
-}
-
-#contact a {
-  color: #007bff;
-  text-decoration: none;
-}
-
